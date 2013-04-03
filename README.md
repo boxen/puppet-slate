@@ -1,3 +1,6 @@
+[![Build
+Status](https://travis-ci.org/boxen/puppet-slate.png?branch=master)](https://travis-ci.org/boxen/puppet-slate)
+
 # Slate
 [Slate](https://github.com/jigish/slate) is a window management
 application similar to Divvy and SizeUp (except better and free!).
