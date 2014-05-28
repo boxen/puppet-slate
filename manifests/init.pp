@@ -4,7 +4,7 @@
 #
 #   include slate
 class slate {
-  package { 'slate':
+  package { 'Slate':
     provider   => 'appdmg',
     source     => 'http://slate.ninjamonkeysoftware.com/Slate.dmg'
   }
