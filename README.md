@@ -1,5 +1,5 @@
 [![Build
-Status](https://travis-ci.org/boxen/puppet-slate.png?branch=master)](https://travis-ci.org/boxen/puppet-slate)
+Status](https://travis-ci.org/boxen/puppet-slate.svg?branch=master)](https://travis-ci.org/boxen/puppet-slate)
 
 # Slate
 [Slate](https://github.com/jigish/slate) is a window management
